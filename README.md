@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ---
 
@@ -29,7 +29,7 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
 
 > **Code. Learn. Improve. Repeat.**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ---
 
@@ -40,9 +40,11 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
   <a href="mailto:aakashmoryavipno1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ---
+## 🧰 Tech Stack
+
 ### Languages
 <p align="center" style="margin: 8px 0;">
   <img src="https://skillicons.dev/icons?i=javascript,c,python,cpp,html,css,sql&theme=dark&perline=6" style="margin: 4px;" />
@@ -63,7 +65,7 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion&theme=dark&perline=6" style="margin: 4px;" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ---
 ## 📈 GitHub Analytics
