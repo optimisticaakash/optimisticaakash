@@ -95,14 +95,16 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/optimisticaakash/optimisticaakash/output/github-snake-dark.svg" alt="Snake animation">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=optimisticaakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-### ✍️ Random Dev Quote
+<h3 align="center">✍️ Random Dev Quote</h3>
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
 </div>
@@ -110,5 +112,19 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
 
 ---
 
-![snake gif](https://github.com/optimisticaakash/optimisticaakash/blob/output/github-snake-dark.svg)
+## 🧠 Coding Platforms
+
+<div align="center">
+
+### LeetCode
+<a href="https://leetcode.com/u/optimist_aakash/">
+  <img src="https://leetcard.jacoblin.cool/optimist_aakash?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
 
