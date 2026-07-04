@@ -16,3 +16,5 @@ Hey there! I'm Aakash 👨‍💻  <br><br>🚀 Aspiring Software Engineer | MER
 [![](https://visitcount.itsvg.in/api?id=optimisticaakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
