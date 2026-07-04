@@ -1,5 +1,6 @@
 <img width="3400" height="920" alt="image" src="https://github.com/user-attachments/assets/98078836-6b3b-4fd8-9f69-9f0cc7e9d046" />
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 # 💫 About Me:
 Hey there! I'm Aakash 👨‍💻  <br><br>🚀 Aspiring Software Engineer | MERN Stack Developer  <br>🧠 DSA Enthusiast | Problem Solver  <br><br>I love turning ideas into real-world projects and exploring how things work under the hood.  <br>Currently on a journey to master Web Development and crack top tech placements.  <br><br>⚡ "Consistency beats talent when talent doesn’t work hard."
