@@ -106,3 +106,7 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+---
+
+![snake gif](https://github.com/optimisticaakash/optimisticaakash/blob/output/github-snake-dark.svg)
+
