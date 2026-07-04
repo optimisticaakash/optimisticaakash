@@ -109,9 +109,6 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
 
 
 ---
-<div align="center">
-  <img src"https://github.com/optimisticaakash/optimisticaakash/blob/output/github-snake-dark.svg">
-    
-</div>
+
 ![snake gif](https://github.com/optimisticaakash/optimisticaakash/blob/output/github-snake-dark.svg)
 
