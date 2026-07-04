@@ -103,10 +103,14 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
 
 
 ### ✍️ Random Dev Quote
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+<div align="center">
+  ![snake gif](https://github.com/optimisticaakash/optimisticaakash/blob/output/github-snake-dark.svg)
+</div>
 
-![snake gif](https://github.com/optimisticaakash/optimisticaakash/blob/output/github-snake-dark.svg)
 
