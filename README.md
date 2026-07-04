@@ -43,18 +43,66 @@ I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
+### Languages
+<p align="center" style="margin: 8px 0;">
+  <img src="https://skillicons.dev/icons?i=javascript,c,python,cpp,html,css,sql&theme=dark&perline=6" style="margin: 4px;" />
+</p>
+
+### Frameworks & Libraries
+<p align="center" style="margin: 8px 0;">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,mui,vite&theme=dark&perline=6" style="margin: 4px;" />
+</p>
+
+### Databases & Cloud
+<p align="center" style="margin: 8px 0;">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark&perline=6" style="margin: 4px;" />
+</p>
+
+### Tools & Design
+<p align="center" style="margin: 8px 0;">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion&theme=dark&perline=6" style="margin: 4px;" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<h3>📊 Language Statistics</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=optimisticaakash&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=optimisticaakash&theme=radical" alt="Most Commit Language" />
+</p>
+
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=optimisticaakash&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=optimisticaakash&theme=radical" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=optimisticaakash&theme=radical&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" alt="Streak Stats" height="180"/>
+</p>
 
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=optimisticaakash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=optimisticaakash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=optimisticaakash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h3>📈 Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=optimisticaakash&theme=react-dark&hide_border=true&color=00FF7F&title_color=00FF7F&line_color=00FF7F&point_color=FFFFFF&area=true" alt="Activity Graph" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=optimisticaakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
