@@ -1,11 +1,37 @@
 <img width="3400" height="920" alt="image" src="https://github.com/user-attachments/assets/98078836-6b3b-4fd8-9f69-9f0cc7e9d046" />
 
+<div align="center">
 
-#![](https://komarev.com/ghpvc/?username=optimisticaakash&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge&abbreviated=true)
+### Full Stack Developer • DSA Enthusiast • Software Engineer
 
-# 💫 About Me:
-Hey there! I'm Aakash 👨‍💻  <br><br>🚀 Aspiring Software Engineer | MERN Stack Developer  <br>🧠 DSA Enthusiast | Problem Solver  <br><br>I love turning ideas into real-world projects and exploring how things work under the hood.  <br>Currently on a journey to master Web Development and crack top tech placements.  <br><br>⚡ "Consistency beats talent when talent doesn’t work hard."
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=850&lines=Building+clean+code+and+scalable+systems;Solving+problems+on+LeetCode;Open+to+collaboration+and+learning" alt="Typing animation" />
 
+<p>
+  <a href="https://komarev.com/ghpvc/?username=optimisticaakash&label=Profile%20views&color=00FF7F&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=optimisticaakash&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/optimisticaakash?tab=followers"><img src="https://img.shields.io/github/followers/optimisticaakash?logo=github&style=for-the-badge&color=0ff69b4" alt="GitHub followers" /></a>
+  <a href="https://github.com/optimisticaakash?tab=repositories"><img src="https://img.shields.io/github/stars/optimisticaakash?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ff69b4" alt="Total stars" /></a>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+## 💫 About Me
+
+I'm **Aakash**, an aspiring **Software Engineer** who enjoys turning ideas into real-world applications.
+
+- 💻 Currently learning the **MERN Stack** and building full-stack projects.
+- 🧩 Practicing **Data Structures & Algorithms** to strengthen problem-solving skills.
+- 🌱 Continuously exploring modern software engineering and AI technologies  
+- 🎯 Seeking opportunities to learn, collaborate, and grow as a developer
+
+> **Code. Learn. Improve. Repeat.**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aakash-morya-24767926a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakashmoryavipno1@gmail.com) 
